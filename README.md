@@ -1,6 +1,6 @@
 # Road Accident Severity Prediction using Machine Learning 
 ## Introduction
-The road accident severity prediction aims to develop a robust predictive model that can accurately assess the severity of road accidents. By analyzing various features such as Driving_experience, Area_accident_occured, Weather_conditions, and Number_of_casualties, etc, the project seeks to anticipate the potential severity of accidents.
+The road accident severity prediction aims to develop a robust predictive model that can accurately assess the severity of road accidents. By analyzing various features such as Driving_experience, Area_accident_occured, Weather_conditions, and Number_of_casualties, etc. the project seeks to anticipate the potential severity of accidents.
 ## Problem Statement
 The project addresses the significant issue of road accidents and their associated consequences, including fatalities. By developing a predictive model for road accident severity, the project aims to provide stakeholders with valuable insights to proactively mitigate the impact of accidents and improve road safety measures. The ultimate goal is to provide valuable insights to stakeholders such as law enforcement agencies, transportation authorities, and emergency responders, enabling them to allocate resources more effectively, implement preventive measures, and improve overall road safety.
 ## Motivation
