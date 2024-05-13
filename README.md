@@ -1,6 +1,10 @@
 # Road Accident Severity Prediction using Machine Learning 
 ## Introduction
 The road accident severity prediction aims to develop a robust predictive model that can accurately assess the severity of road accidents. By analyzing various features such as Driving_experience, Area_accident_occured, Weather_conditions, and Number_of_casualties, etc. the project seeks to anticipate the potential severity of accidents.
+## Project Report
+[Project Report](https://github.com/Ifroza/Machine-Learning_Road-Accident-Severity-Prediction/blob/main/CSE422_Project%20Report.pdf)
+## Dataset 
+[Project Dataset](https://github.com/Ifroza/Machine-Learning_Road-Accident-Severity-Prediction/blob/main/422_dataset.zip)
 ## Problem Statement
 The project addresses the significant issue of road accidents and their associated consequences, including fatalities. By developing a predictive model for road accident severity, the project aims to provide stakeholders with valuable insights to proactively mitigate the impact of accidents and improve road safety measures. The ultimate goal is to provide valuable insights to stakeholders such as law enforcement agencies, transportation authorities, and emergency responders, enabling them to allocate resources more effectively, implement preventive measures, and improve overall road safety.
 ## Motivation
@@ -46,5 +50,3 @@ The motivation stems from the urgent need to enhance road safety and reduce the 
 * This deep learning architecture excels at capturing intricate patterns in data.
 ## Results
 The project has developed several machine learning models for predicting road accident severity. The models include Naive Bayes, Decision Trees, KNN, Random Forest, SVM, & MLP. All of the models' performances have been evaluated using accuracy, precision, recall, and F1-score metrics, providing insights into their predictive capabilities.
-## Project Report
-[CSE422_Project Report](https://github.com/Ifroza/Machine-Learning_Road-Accident-Severity-Prediction/blob/main/CSE422_Project%20Report.pdf)
