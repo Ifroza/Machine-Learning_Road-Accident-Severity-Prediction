@@ -1,8 +1,5 @@
 # Road Accident Severity Prediction using Machine Learning 
-___
-___
 ## Introduction
-___
 The road accident severity prediction aims to develop a robust predictive model that can accurately assess the severity of road accidents. By analyzing various features such as Driving_experience, Area_accident_occured, Weather_conditions, and Number_of_casualties, etc, the project seeks to anticipate the potential severity of accidents.
 ___
 ## Problem Statement
@@ -57,7 +54,7 @@ ___
 -Utilizes forward propagation to compute predictions and backpropagation to adjust model parameters.
 -This deep learning architecture excels at capturing intricate patterns in data.
 ___
-##Results
+## Results
 ___
 The project has developed several machine learning models for predicting road accident severity. The models include Naive Bayes, Decision Trees, KNN, Random Forest, SVM, & MLP. All of the models' performances have been evaluated using accuracy, precision, recall, and F1-score metrics, providing insights into their predictive capabilities.
 ___
