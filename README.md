@@ -16,7 +16,7 @@ The motivation stems from the urgent need to enhance road safety and reduce the 
 4) Contributes to informed decision-making for this sector
 ## Getting Started
 * Clone this repository.
-* Add data file path to code 3rd cell.
+* Add data file path to code 2nd cell.
 * Run the main script to train and evaluate the prediction model.
 ## Models used
 1)  Naive Bayes:
