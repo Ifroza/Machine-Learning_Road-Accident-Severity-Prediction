@@ -51,4 +51,4 @@ The motivation stems from the urgent need to enhance road safety and reduce the 
 ## Results
 The project has developed several machine learning models for predicting road accident severity. The models include Naive Bayes, Decision Trees, KNN, Random Forest, SVM, & MLP. All of the models' performances have been evaluated using accuracy, precision, recall, and F1-score metrics, providing insights into their predictive capabilities.
 ## Other Contributor(s):
-* Swaccha Podder
+* Swachcha Podder
